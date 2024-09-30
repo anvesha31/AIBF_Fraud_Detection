@@ -44,3 +44,7 @@ The dataset for this project consists of financial transaction records. It inclu
 6.)*Label (Fraud or Non-Fraud)*
 
 This data is preprocessed to remove noise, handle missing values, and perform feature extraction before feeding into the machine learning model.
+
+## DATA VISUALISATION
+
+1.) **Heatmap of the correlation between the variables with the target variable**
