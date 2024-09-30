@@ -48,3 +48,5 @@ This data is preprocessed to remove noise, handle missing values, and perform fe
 ## DATA VISUALISATION
 
 1.) **Heatmap of the correlation between the variables with the target variable**
+![Fraud Detection Flowchart](https://github.com/Anshi2609/AIBF_Fraud_Detection/blob/b7f444cecf307ff7ee2a4b8824d52baa4b6554d5/Screenshot%202024-09-30%20161654.png)
+
