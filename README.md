@@ -27,6 +27,8 @@ This project aims to provide a more accurate, real-time solution to fraud detect
 
 ## Data Used
 
+**DATASET AVAILABLE AT**: https://www.kaggle.com/datasets/anshikaranjan/fraud-detection/data
+
 The dataset for this project consists of financial transaction records. It includes features such as:
 
 1.)*Transaction Amount*
